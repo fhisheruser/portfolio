@@ -110,6 +110,39 @@
 }
 
 
+.project-card {
+  background-color:#000000;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-10px);
+}
+
+.project-card img {
+  width: 100%;
+  height: auto;
+}
+
+.project-info {
+  padding: 15px;
+  text-align: center;
+}
+
+.project-info h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.project-info p {
+  font-size: 1rem;
+  color: #ffffff;
+}
+
 </style>
 
 
@@ -119,7 +152,7 @@
 	  
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html">Leena Rajan Katkar</a>
+	      <a class="navbar-brand" href="index.html"></a>
 	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -129,7 +162,9 @@
 	          <li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
 	          <li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
 	          <li class="nav-item"><a href="#resume-section" class="nav-link"><span>Resume</span></a></li>
-	          <li class="nav-item"><a href="#project-section" class="nav-link"><span>Projects</span></a></li>
+			<li class="nav-item"><a href="#exp-section" class="nav-link"><span>Experience</span></a></li>
+	          <li class="nav-item"><a href="#pro-section" class="nav-link"><span>Projects</span></a></li>
+			<li class="nav-item"><a href="#edu-section" class="nav-link"><span>Education</span></a></li>
 	          <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
 	        </ul>
 	      </div>
@@ -318,13 +353,22 @@
     	<div class="container">
     		<div class="row justify-content-center pb-5">
           <div class="col-md-10 heading-section text-center ftco-animate">
-          	<h1 class="big big-2">Resume</h1>
+          	
             <h2 class="mb-4">Resume</h2>
             <p>Enthusiastic IT engineer, web developer, adept in multiple languages, with over 9 project experiences, currently
 			employed at two companies.</p>
+				<div class="row justify-content-center mt-5">
+					<div class="col-md-6 text-center ftco-animate">
+						<p><a href="images\Leena RajanKatkar_InternshalaResume (1).pdf" class="btn btn-primary py-4 px-5">Download
+								CV</a></p>
+					</div>
+				</div>
           </div>
         </div>
-
+		</div>
+		</section>
+<section class="ftco-section ftco-no-pb" id="exp-section">
+	<div class="container">
 		<div class="row">
 			<h1 class="big-4">Experience</h1>
 			<div class="underline"></div>
@@ -420,7 +464,96 @@
 
 		<br>
 		<br>
+<section class="ftco-section ftco-no-pb" id="pro-section">
+	<div class="container">
+		<div class="row justify-content-center pb-5">
+			<div class="col-md-10 heading-section text-center ftco-animate">
+				<h2 class="mb-4">Projects</h2>
+			</div>
+		</div>
 
+		<div class="row">
+			<!-- Card 1 -->
+			<div class="col-md-4 ftco-animate">
+				<div class="project-card">
+					<a href="https://www.rudraksha.org.in/" ><img src="images/a.jpeg" alt="Project 1" class="img-fluid"></a>
+					<div class="project-info">
+						<h3>Rudraksha Welfare Foundation</h3>
+						<p>As a Full Stack Developer intern at Rudraksha Welfare Foundation, I worked on real-time projects focused on societal
+						development. I led a team, ensuring collaboration to meet project goals, handled technical challenges, and oversaw
+						project progress to deliver impactful solutions efficiently.</p>
+					</div>
+				</div>
+			</div>
+
+			<!-- Card 2 -->
+			<div class="col-md-4 ftco-animate">
+				<div class="project-card">
+					<a href="https://sdsanskritcollegeambala.in/"><img src="images/a1.jpeg" alt="Project 2" class="img-fluid"></a>
+					<div class="project-info">
+						<h3>DKKSD Adarsh Sanskrit College</h3>
+						<p>As a Web Developer for a college website, I design and maintain a responsive platform that provides essential
+						information for students, faculty, and visitors. I develop features such as course catalogs, event listings, and online
+						registration systems to ensure easy access to academic resources and event registration.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4 ftco-animate">
+				<div class="project-card">
+					<a href="https://www.exoticaeventsandhospitality.com/"><img src="images/a2.jpeg" alt="Project 2" class="img-fluid"></a>
+					<div class="project-info">
+						<h3>Exotica Events and Hospitality</h3>
+						<p>As a Web Developer for an event management company, I design and maintain a responsive website that enhances customer
+						engagement and promotes services. Regular updates to event details and schedules keep the site relevant. My work ensures
+						a seamless online experience, contributing to the company's success.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-4 ftco-animate">
+				<div class="project-card">
+					<a href="https://fhisheruser.github.io/portfolio/"><img src="images/a3.jpeg" alt="Project 2" class="img-fluid"></a>
+					<div class="project-info">
+						<h3>Portfolio</h3>
+						<p>As the Web Developer for my portfolio website, I created a clean, responsive platform highlighting my skills, projects,
+						and achievements. I ensured easy navigation across devices, regularly updated the content, and optimized for performance
+						and search engines to make it accessible to potential employers and collaborators.</p>
+					</div>
+				</div>
+			</div>
+
+			<!-- Card 3 -->
+			<div class="col-md-4 ftco-animate">
+				<div class="project-card">
+					<a href="https://www.youtube.com/watch?v=65YrG95IxAs"><img src="images/a4.jpeg" alt="Project 3" class="img-fluid"></a>
+					<div class="project-info">
+						<h3>Ural Federal University Project</h3>
+						<p>The Ural Federal Summer Internship gathered global talents to work on projects. My team developed an AI/ML-based
+						furniture recommendation system using Generative Adversarial Networks (GANS). Our innovative approach earned us
+						top-three recognition for the best projects, showcasing our technical excellence during the internship.</p>
+					</div>
+				</div>
+			</div>
+<div class="col-md-4 ftco-animate">
+	<div class="project-card">
+		<a href="https://www.irrecordings.com/"><img src="images/a5.jpeg" alt="Project 3"
+				class="img-fluid"></a>
+		<div class="project-info">
+			<h3>IR Recordings</h3>
+			<p>As Web developer my duties involved maintaining the updates and changing according to it as well as the UI/UX. I built complete CRM(Customer Relationship Management) system for company which basically holds and controls all the customer details and company management details including profit, and revenue.
+			</p>
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+</section>
+
+
+<section class="ftco-section ftco-no-pb" id="edu-section">
+	<div class="container">
 		<div class="row">
 			<h1 class="big-4">Education</h1>
 			<div class="underline"></div>
@@ -456,11 +589,7 @@
 				</div>
     		</div>
 
-    		<div class="row justify-content-center mt-5">
-    			<div class="col-md-6 text-center ftco-animate">
-    				<p><a href="images\Leena RajanKatkar_InternshalaResume (1).pdf" class="btn btn-primary py-4 px-5">Download CV</a></p>
-    			</div>
-    		</div>
+    	
     	</div>
     </section>
 
@@ -598,7 +727,7 @@
       <div class="container">
       	<div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section text-center ftco-animate">
-            <h1 class="big big-2">Contact</h1>
+            
             <h2 class="mb-4">Contact Me</h2>
             <p>Below are the details to reach out to me!</p>
           </div>
@@ -686,3 +815,4 @@
     
   </body>
 </html>
+
