@@ -1,0 +1,77 @@
+LEENA RAJAN KATKAR  
+Los Angeles, CA 90007  ·  (323) 283 -5383  ·  lkatkar@usc.edu   ·  linkedin.com/in/leena -rajan -katkar   ·  github.com/fhisheruser  
+SUMMARY  
+Graduate researcher at USC Viterbi specializing in large language models, generative AI, and neuromorphic computing. 
+Proven track record building and validating end -to-end ML pipel ines (PyTorch, JAX) and scalable backend systems 
+(RESTful APIs, MySQL, PHP, Java). Experienced across the full software lifecycle — from research experimentation to 
+production -grade deployment — with a strong foundation in data structures, algorithms, and distributed systems. 
+Seeking Apple's Software Engineering Internship to apply deep AI/ML expertise to products used by billions.  
+EDUCATION  
+M.S., Computer Science   ·  University of Southern California — Viterbi School of Engineering Aug 2025 – May 
+2027  |  Los Angeles, CA  
+▸ Coursework: Artificial Intelligence · Machine Learning · Deep Learning · Distributed Systems  
+B.E., Information Technology   ·  Saraswati College of Engineering  2021 – 2025  |  India  
+▸ GPA: 3.7 / 4.0  ·  Coursework: Advanced Data Structures & A lgorithms · Computer Network Security · Big Data 
+Analytics · OS · Database Management · Software Engineering  
+EXPERIENCE  
+Research Assistant — Generative AI & LLMs   ·  University of Southern California  Nov 2025 – Present  
+▸ Designed and executed quantitative PyTorch experiments benchmarking LLM architectures (transformer -based) 
+for generative AI tasks, applying statistical metrics for performance evaluation.  
+▸ Implemented NLP pipelines for model output benchmarking; applied pro bability theory and error analysis to 
+validate generative model efficiency at scale.  
+▸ Contributed to efficient AI systems research by integrating model validation algorithms and producing reproducible, 
+data-driven findings.  
+Research Intern — AI & Robotics   ·  DRDO (Defence Research and Development Organisation) Jan 2025 – 
+Mar 2025  
+▸ Built end -to-end ML pipelines in JAX integrating multi -sensor data streams and video/image processing (OpenCV) 
+using regression, classification, and time -series analysis.  
+▸ Designed and validated defense -grade AI pipelines; applied statistical validation to improve model accuracy and 
+reliability under real -world conditions.  
+Project Developer — ML Systems   ·  Ural Federal University  Sep 2024 – Jul 2024  |  Russia  
+▸ Developed and evaluate d a GAN -based recommendation system at scale (10,000+ users) using deep learning, 
+validating via iterative model experimentation.  
+▸ Built scalable data pipelines in Java; applied statistical analysis to improve recommendation precision through 
+systematic A/B -style iteration.  
+Full-Stack Web Developer   ·  990 Productions  Feb 2024 – Sep 2024  
+▸ Engineered a full -stack CRM using PHP, MySQL, and RESTful APIs, achieving up to 90% efficiency gains in 
+financial operations.  
+▸ Designed normalized MySQL schemas for scalable data management; built responsive frontend with HTML/CSS 
+and Bootstrap.  
+Full-Stack Web Developer   ·  Rudraksha Welfare Foundation  Jun 2023 – Sep 2024  
+▸ Led a 6 -member Agile team delivering 6+ live full -stack projects (HTML/CSS, Tailwind, JavaScript, PHP); 
+improved workflow efficiency by 75% via Git -based version control.  
+TECHNICAL SKILLS  
+Languages: Python · C++ · Java · JavaScript · PHP · SQL  
+ML / AI: PyTorch · JAX · Scikit -learn · Hugging Face · LangChain · XGBoost · OpenCV · Generative AI · LLMs · GANs 
+· Transformers  
+Backend & APIs: RESTful APIs · Node.js · PHP · MySQL · WebSockets  
+Frontend: HTML5 · CSS3 · JavaScript · Tailwind · Bootstrap  
+Data Engineering: NumPy · Pandas · Time -series · Statistical Modeling · Data Validation · Distributed ML  
+Tools & Practices: Git · Agile/Scrum · Model Evaluation · Reproducible ML Reporting  
+KEY PROJECTS  
+Terrain Mapping System  
+▸ Built 2D terrain segmentation usi ng U -Net and 3D point -cloud modeling with KPConv in PyTorch; processed aerial 
+imagery with OpenCV for accurate terrain classification applicable to autonomous navigation and defense 
+intelligence.  
+Internship Provider Platform  
+▸ Designed and implemented RESTfu l APIs in PHP and JavaScript for a skill -based internship matching platform 
+with real -time student –faculty collaboration via WebSockets.  
+Neuromorphic SNN for Dyslexia Detection  
+▸ Architected a Spiking Neural Network achieving 94.3% dyslexia detection accurac y with 85% GPU power 
+reduction and sub -100ms response latency — published research.  
+PUBLICATIONS & PATENTS  
+▸ Patent: Jeevani — AI/ML Autonomous Water Rescue Device (95% efficiency, 99% rescue rate; 1st Prize, 
+International Engineering Conference)  
+▸ GAN -Based F urniture Recommendation System — Springer (combines GAN recommendations, 3D AR 
+visualization, multilingual support)  
+▸ Foundations of Machine Learning: Models, Methods, and Evaluation — Accepted, Awaiting Publication  
+▸ Neuromorphic Computing for Real -Time Dysle xia Detection — Accepted, Awaiting Publication  
+▸ Explainable AI Financial Fraud Detection (SMOTE + ensemble + SHAP) — Accepted, Awaiting Publication  
+▸ Edge -Based Confidence -Aware Continual Learning Framework for AI Wearables — Accepted, Awaiting 
+Publication  
+HONORS & AWARDS  
+▸ Best Research Paper & Best Poster — NIELIT International Conference 2025  
+▸ Best Student Project Award 2024 — Computer Society of India  
+▸ Nirmaan 2023 Hackathon Winner  
+▸ International Jury Member — i-GEN 2026, Malaysia (Kolej Poly -Tech MARA)  
+ 
